@@ -11,5 +11,5 @@ do
    echo "Clase N° $a"
 done
 sleep 5
-echo "Bien $nombre, terminamos las clases de $curso, nos vemos."
+echo "Bien $nombre, suerte terminamos las clases de $curso, nos vemos."
 
